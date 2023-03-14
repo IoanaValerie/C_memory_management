@@ -1,11 +1,12 @@
 # C_memory_management
 
  In main:
--se initializeaza datele;
--se citeste fiecare linie primita de la tastatura intr-un while;
--pentru fiecare linie se aloca memorie si se retin datele in structura
+ 
+	- se initializeaza datele;
+	- se citeste fiecare linie primita de la tastatura intr-un while;
+	- pentru fiecare linie se aloca memorie si se retin datele in structura
 care va fi introdusa in vector conform cerintei;
--se apeleaza functia aferente fiacarei linii;
+	- se apeleaza functia aferente fiacarei linii;
 
  Functiile folosite sunt:
  
